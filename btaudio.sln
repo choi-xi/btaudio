@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btaudio-gui", "gui\btaudio-gui.csproj", "{6BA532DB-2E1F-48FE-BF9F-530ED90EC264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btaudio-cli", "cli\btaudio-cli.csproj", "{50BD03B9-7E5A-4146-886C-FCF809D36F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA532DB-2E1F-48FE-BF9F-530ED90EC264}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{6BA532DB-2E1F-48FE-BF9F-530ED90EC264}.Debug|Any CPU.Build.0 = Debug|x64
+		{6BA532DB-2E1F-48FE-BF9F-530ED90EC264}.Release|Any CPU.ActiveCfg = Release|x64
+		{6BA532DB-2E1F-48FE-BF9F-530ED90EC264}.Release|Any CPU.Build.0 = Release|x64
+		{50BD03B9-7E5A-4146-886C-FCF809D36F31}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{50BD03B9-7E5A-4146-886C-FCF809D36F31}.Debug|Any CPU.Build.0 = Debug|x64
+		{50BD03B9-7E5A-4146-886C-FCF809D36F31}.Release|Any CPU.ActiveCfg = Release|x64
+		{50BD03B9-7E5A-4146-886C-FCF809D36F31}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
